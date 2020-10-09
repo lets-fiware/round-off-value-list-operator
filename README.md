@@ -2,7 +2,7 @@
 
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/visualization.svg)](https://www.fiware.org/developers/catalogue/)
 [![License: MIT](https://img.shields.io/github/license/lets-fiware/round-off-value-list-operator.svg)](https://opensource.org/licenses/MIT)<br/>
-[![Build Status](https://travis-ci.org/lets-fiware/round-off-value-list-operator.svg?branch=master)](https://travis-ci.org/lets-fiware/round-off-value-operator)
+[![Build Status](https://travis-ci.com/lets-fiware/round-off-value-list-operator.svg?branch=master)](https://travis-ci.com/lets-fiware/round-off-value-operator)
 [![Coverage Status](https://coveralls.io/repos/github/lets-fiware/round-off-value-list-operator/badge.svg)](https://coveralls.io/github/lets-fiware/round-off-value-operator)
 
 The Round Off Value List operator is a WireCloud operator that provides a simple mechanism of rounding off value list, produced by an output endpoint.
